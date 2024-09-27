@@ -1,3 +1,4 @@
+## GEOLOCATION TRACKER
 Installation
 
 Install package with pip
@@ -56,3 +57,40 @@ my_map.save("location.html")
 
 print("location tracking completed")
 print("Thank you")
+
+## MEMORY PUZZLE GAME
+
+This is an emoji-based memory tile game
+![image](https://github.com/user-attachments/assets/fa5489dd-a868-4fe5-a33f-90d671933f58)
+
+Deployment Steps
+This game requires Python 3.7+ in order to run. Pip is also recommended to enable easy installation of the required package dependencies.
+
+Install pygame and playsound
+pip install pygame
+pip install playsound
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
